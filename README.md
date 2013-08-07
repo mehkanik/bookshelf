@@ -15,6 +15,6 @@ Plans
 
 This project will mostly be written using a python framework (I don't like PHP, sue me), most likely [bottlepy](http://bottlepy.org/docs/dev/). I intend to make use of bootstrap, LESS, node.js and jQuery throughout this project as well.
 
-Serving will involve one of bottlepy's default development servers, although it should be possible with uWSGI and Nginx.
+Serving can involve one of bottlepy's default development servers, although it should also be possible with uWSGI and Nginx.
 
-Deployment is a far ways down the road, but I'd like it to be similar in ease to wordpress or foolfuuka's 'five minute install' system.
+Deployment is a far ways down the road, but I intend for it to be as simple and streamlined as possible; that way the person setting it up can focus more on *using* the software rather than setting it up.
