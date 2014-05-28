@@ -1,7 +1,7 @@
 Bookshelf
 =========
 
-This is my attempt to fill the void for an open sourced, self-hosted, functional and distractionless website built by a writer for writers.
+This is my attempt to fill the void for an open sourced, self-hosted, functional and distraction-free website built by a writer for writers.
 
 Many hours fidgeting with convoluted CMS or blog systems lead me to the following ideals that I want to use to guide the development of this project:
 
@@ -19,4 +19,4 @@ Serving can involve one of bottlepy's default development servers, although it s
 
 Deployment is a far ways down the road, but I intend for it to be as simple and streamlined as possible; that way the person setting it up can focus more on *using* the software rather than setting it up.
 
-You can see design concepts I have in mind over [yonder](https://github.com/mehkanik/bookshelf/wiki/Bookshelf%27s-Features).
+You can see design concepts I have in mind over [yonder](https://github.com/mehkanik/bookshelf/wiki/Bookshelf%27s-Features). I also intend for there to be real-time collaboration amongst groups working together on various writing projects.
